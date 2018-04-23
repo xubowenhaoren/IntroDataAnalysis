@@ -3,7 +3,7 @@ Supporting files for Intro Data Analysis Workshop, Spring 2018
 
 ## Setup (In Terminal/CMD/PowerShell)
 ### installing notebook
-On macOS:
+On macOS:  
 `python3 -m pip install --upgrade pip`  
 `python3 -m pip install jupyter`  
 On windows:  
